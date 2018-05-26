@@ -1,0 +1,131 @@
+.link{
+float: right;
+padding: 50px;
+font-size: 15px;
+color: white;
+list-style-type: none;	}
+
+.logo{
+height: auto;
+float: left; }
+
+.posicioncomienza{
+position: absolute;
+top: 50%;
+width: 100%;
+text-align: center; }
+
+.comienza{
+color:white; }
+
+body{
+width: 100%;
+margin: 0;
+padding: 0;
+font-family: serif; }
+
+.imagen100{
+width: 100%; }
+
+nav{
+position: absolute;
+width: 100%; }
+
+.imagenlogo{
+height: 35px;
+float: left;
+padding: 50px; }
+
+.boton_1{
+text-decoration: none;
+padding: 3px;
+padding-left: 10px;
+padding-right: 10px;
+font-family: cursive;
+font-weight: 100;
+font-size: 15px;
+font-style: italic;
+color: white;
+background-color: #3451DE ;
+border-radius: 15px;
+border: 1px double #006505; }
+
+.boton_2{
+  	text-decoration: none;
+    padding: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: cursive;
+    font-weight: 100;
+    font-size: 15px;
+    font-style: italic;
+    color: white;
+    background-color: #11AE1A ;
+    border-radius: 15px;
+    border: 1px double #006505;
+   
+  }
+
+.escasez{
+color: white; }
+
+.seccion2{
+position: absolute;
+top: 80%;
+width: 100%;
+text-align: center; }
+
+.box{
+width: 100%;
+margin: 5px;
+height: 80%;
+float: left;
+background-color: #E3FFEE ; }
+
+.boton_3{
+	text-decoration: none;
+    padding: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: cursive;
+    font-weight: 100;
+    font-size: 15px;
+    font-style: italic;
+    color: white;
+    background-color: #3451DE ;
+    border-radius: 15px;
+    border: 1px double #006505;
+   
+
+}
+.seccion2{
+position: absolute;
+top: 80%;
+width: 50%;
+text-align: center; }
+
+.parte3{
+position: absolute;
+top: 120%;
+width: 100%;
+text-align: center;
+ }
+
+.ultimaparte{
+  width: 88%;
+  border:0;
+  text-align:left;
+  position: absolute;
+  margin-top: 25px;
+  margin-bottom: 40px;
+  font-size: 14px;
+  right: 0;
+}
+
+.bordeparte3{
+  
+  background-color: #FBFFEE;
+  border: 1px solid #B8D4C5 ;
+
+}
+
